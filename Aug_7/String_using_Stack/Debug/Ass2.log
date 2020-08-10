@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ass2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  String.cpp
+  Generating Code...
+d:\code\aug_7\ass2\string.cpp(56): warning C4172: returning address of local variable or temporary: ele
+  Ass2.vcxproj -> D:\CODE\Aug_7\Debug\String_using_Stack.exe
