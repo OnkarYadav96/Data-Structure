@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Aug_12.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CircularQueue.cpp
+  Main.cpp
+d:\code\aug_12\aug_12\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Aug_12.vcxproj -> D:\CODE\Aug_12\Debug\Circular_Queue.exe

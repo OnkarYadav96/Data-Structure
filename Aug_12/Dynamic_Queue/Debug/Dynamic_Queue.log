@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\code\aug_12\dynamic_queue\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Dynamic_Queue.vcxproj -> D:\CODE\Aug_12\Debug\Dynamic_Queue.exe
