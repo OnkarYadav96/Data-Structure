@@ -1,0 +1,8 @@
+﻿  Stack.cpp
+d:\code\aug_11\stack_int_postfix\stack.cpp(43): warning C4305: 'initializing': truncation from 'int' to 'char'
+d:\code\aug_11\stack_int_postfix\stack.cpp(43): warning C4309: 'initializing': truncation of constant value
+  main.cpp
+d:\code\aug_11\stack_int_postfix\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+d:\code\aug_11\stack_int_postfix\stack.cpp(113): warning C4715: 'Calculate': not all control paths return a value
+  Stack_int_Postfix.vcxproj -> D:\CODE\Aug_11\Debug\Stack_int_Postfix.exe

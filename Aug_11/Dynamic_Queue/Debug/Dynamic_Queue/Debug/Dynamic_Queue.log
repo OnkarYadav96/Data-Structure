@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+d:\code\aug_11\dynamic_queue\stack.cpp(11): error C2065: 'rear': undeclared identifier
+d:\code\aug_11\dynamic_queue\stack.cpp(13): error C2065: 'front': undeclared identifier
+d:\code\aug_11\dynamic_queue\stack.cpp(13): error C2065: 'rear': undeclared identifier
