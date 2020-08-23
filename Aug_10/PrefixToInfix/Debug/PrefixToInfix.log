@@ -1,0 +1,3 @@
+﻿  Main.cpp
+d:\code\aug_10(stack expression)\prefixtoinfix\main.cpp(43): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\code\aug_10(stack expression)\prefixtoinfix\main.cpp(50): error C2059: syntax error: ';'
