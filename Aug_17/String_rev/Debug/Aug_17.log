@@ -1,0 +1,7 @@
+﻿  Main.cpp
+d:\code\aug_17\aug_17\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\code\aug_17\aug_17\main.cpp(14): warning C4018: '<': signed/unsigned mismatch
+d:\code\aug_17\aug_17\main.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Stack.cpp
+  Generating Code...
+  Aug_17.vcxproj -> D:\CODE\Aug_17\Debug\String_rev.exe

@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+  main.cpp
+d:\code\aug_17\even_odd_queue_stack\main.cpp(6): warning C4101: 'check': unreferenced local variable
+  Generating Code...
+  Even_Odd_Queue_Stack.vcxproj -> D:\CODE\Aug_17\Debug\Even_Odd_Queue_Stack.exe
