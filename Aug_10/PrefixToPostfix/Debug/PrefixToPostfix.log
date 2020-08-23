@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\code\aug_10(stack expression)\prefixtopostfix\main.cpp(43): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PrefixToPostfix.vcxproj -> D:\CODE\Aug_10(Stack Expression)\Debug\PrefixToPostfix.exe
