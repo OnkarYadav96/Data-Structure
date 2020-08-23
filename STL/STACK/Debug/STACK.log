@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\code\stl\stack\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\code\stl\stack\main.cpp(23): error C3867: 'std::stack<Person,std::deque<_Ty,std::allocator<_Ty>>>::top': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=Person
+          ]
+d:\code\stl\stack\main.cpp(23): error C2105: '--' needs l-value
